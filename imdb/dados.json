@@ -1,0 +1,122 @@
+[
+    {
+      "titulo": "O Poderoso Chefão",
+      "ano": 1972,
+      "diretor": "Francis Ford Coppola",
+      "nota": 9.2
+    },
+    {
+      "titulo": "Cidadão Kane",
+      "ano": 1941,
+      "diretor": "Orson Welles",
+      "nota": 8.3
+    },
+    {
+      "titulo": "Um Sonho de Liberdade",
+      "ano": 1994,
+      "diretor": "Frank Darabont",
+      "nota": 9.3
+    },
+    {
+      "titulo": "Pulp Fiction - Tempo de Violência",
+      "ano": 1994,
+      "diretor": "Quentin Tarantino",
+      "nota": 8.9
+    },
+    {
+      "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+      "ano": 2003,
+      "diretor": "Peter Jackson",
+      "nota": 8.9
+    },
+    {
+      "titulo": "O Silêncio dos Inocentes",
+      "ano": 1991,
+      "diretor": "Jonathan Demme",
+      "nota": 8.6
+    },
+    {
+      "titulo": "Casablanca",
+      "ano": 1942,
+      "diretor": "Michael Curtiz",
+      "nota": 8.5
+    },
+    {
+      "titulo": "A Lista de Schindler",
+      "ano": 1993,
+      "diretor": "Steven Spielberg",
+      "nota": 8.9
+    },
+    {
+      "titulo": "Apocalypse Now",
+      "ano": 1979,
+      "diretor": "Francis Ford Coppola",
+      "nota": 8.4
+    },
+    {
+      "titulo": "Cidade de Deus",
+      "ano": 2002,
+      "diretor": "Fernando Meirelles",
+      "nota": 8.6
+    },
+    {
+      "titulo": "Interestelar",
+      "ano": 2014,
+      "diretor": "Christopher Nolan",
+      "nota": 8.6
+    },
+    {
+      "titulo": "O Pianista",
+      "ano": 2002,
+      "diretor": "Roman Polanski",
+      "nota": 8.5
+    },
+    {
+      "titulo": "A Origem",
+      "ano": 2010,
+      "diretor": "Christopher Nolan",
+      "nota": 8.8
+    },
+    {
+      "titulo": "Taxi Driver",
+      "ano": 1976,
+      "diretor": "Martin Scorsese",
+      "nota": 8.3
+    },
+    {
+      "titulo": "E o Vento Levou",
+      "ano": 1939,
+      "diretor": "Victor Fleming",
+      "nota": 8.1
+    },
+    {
+      "titulo": "Matrix",
+      "ano": 1999,
+      "diretor": "The Wachowskis",
+      "nota": 8.7
+    },
+    {
+      "titulo": "2001: Uma Odisseia no Espaço",
+      "ano": 1968,
+      "diretor": "Stanley Kubrick",
+      "nota": 8.3
+    },
+    {
+      "titulo": "O Resgate do Soldado Ryan",
+      "ano": 1998,
+      "diretor": "Steven Spielberg",
+      "nota": 8.6
+    },
+    {
+      "titulo": "Blade Runner: O Caçador de Andróides",
+      "ano": 1982,
+      "diretor": "Ridley Scott",
+      "nota": 8.1
+    },
+    {
+      "titulo": "Seven - Os Sete Crimes Capitais",
+      "ano": 1995,
+      "diretor": "David Fincher",
+      "nota": 8.6
+    }
+  ]
